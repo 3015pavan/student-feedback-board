@@ -71,3 +71,6 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+I am student 2 adding a line that is to be changed by student 1 again, such that a merge conflict is created and student 1 resolves it
