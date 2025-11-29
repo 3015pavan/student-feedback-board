@@ -74,3 +74,4 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 
 
 I am student 2 adding a line that is to be changed by student 1 again, such that a merge conflict is created and student 1 resolves it
+I am student 1 making final changes to resolve merge conflicts successfully.
